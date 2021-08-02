@@ -1,0 +1,40 @@
+.btn{
+weight:250%;
+height:30px;
+
+     padding:20px;
+
+     color:white;
+
+     background-color:red;
+
+     text-decoration:none;
+
+     text-align:center;
+
+     border:40px;
+
+     text-size:30px;
+
+     margin:20px;
+
+     font-weight:900;
+     float:left;
+
+     }
+
+.btn:hover{
+
+  background:grey;
+
+  cursor:pointer;
+
+}
+
+    .button a{
+
+      display:block;
+
+      text-decoration:none;
+
+      color:white;
